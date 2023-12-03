@@ -49,7 +49,7 @@ Usage
 
     bash
 
-git clone https://github.com/yourusername/real-estate-analysis.git
+git clone https://github.com/yuenfu001/Real-Estate-Market-Analysis.git
 
 Navigate to the project directory:
 
